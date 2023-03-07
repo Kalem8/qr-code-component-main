@@ -1,68 +1,57 @@
+## Table of contents
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-## The challenge
+## Overview
 
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
+I completed this project to practice using Git and GitHub. Additionally, I wanted to work with some basic CSS and make it responsive. Through this project, I gained valuable experience in version control and web development, which I can use in future projects. Overall, it was a great learning opportunity and a fun challenge to improve my skills.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Il s'agit d'un travail ayant pour but de pratiquer les outils tels que git et github. J'ai choisis un petit projet me permettant de pratiquant également du CSS et HTML. Durant le projet j'ai pu apprendre à faire du petit versioning de projet. 
 
-## Where to find everything
+### Screenshot
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+(./qr-code/design/DesktopScreen.png)
+(./qr-code/design/mobileScreen.png)
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+## My process
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+The process of creating this project was done step by step, with the influence of atomic design. I began by managing the smallest indivisible parts such as paragraphs and titles, and built the rest of the project on top of them.
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+### Built with
 
-## Building your project
+- CSS custom properties
+- CSS Grid
+- Mobile-first workflow
+- chat GPT
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+### What I learned
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
+I learned the Git process (staging => commit => push), as well as the importance of creating branches and working on them to avoid any issues with the main branch. I also learned how to use all of the essential Git commands. However, I realize that there is still a lot for me to learn.
 
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
+I enjoyed working with as little CSS as possible, which was made possible by creating a well-structured HTML and utilizing atomic design principles.
 
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+### Continued development
 
-## Deploying your project
+I plan to continue creating components like this for my own future use.
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+### Useful resources
 
-- [GitHub Pages](https://pages.github.com/)
+- [Center stuff in CSS](https://www.youtube.com/watch?v=5kU3xE0AinM&t=508s) - This helped me for grid part. I really liked this pattern and will use it going forward.
+- [Atomic design conference](https://www.youtube.com/watch?v=W-h1FtNYim4) - This is an amazing conference which helped me finally understand how to build CSS from 0. I'd recommend it to anyone still learning this concept.
 
+## Author
 
-## Create a custom `README.md`
+- Youtube chanel- [Yunus Yildiz](https://www.youtube.com/channel/UCHcbGs0_a6xnTPpbkoRaGuw) (Maybe I'll produce some dev stuff on it)
+- Linkedin - https://www.linkedin.com/in/yunus-yildiz-b919b7206/
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+## Acknowledgments
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
-
-## Submitting your solution
-
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
-
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
-
-## Sharing your solution
-
-There are multiple places you can share your solution:
-
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
-
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-
-**Have fun building!** 🚀
+Thank to chat GPT !
