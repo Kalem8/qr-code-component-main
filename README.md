@@ -18,7 +18,7 @@ Il s'agit d'un travail ayant pour but de pratiquer les outils tels que git et gi
 
 ### Screenshot
 
-![Desktop screen](../qr-code/design/DesktopScreen.png)
+![Desktop screen](design/DesktopScreen.png)
 ![Mobile screen](./qr-code/design/mobileScreen.png)
 
 
