@@ -16,6 +16,8 @@ I completed this project to practice using Git and GitHub. Additionally, I wante
 
 Il s'agit d'un travail ayant pour but de pratiquer les outils tels que git et github. J'ai choisis un petit projet me permettant de pratiquant également du CSS et HTML. Durant le projet j'ai pu apprendre à faire du petit versioning de projet. 
 
+https://kalem8.github.io/qr-code-component-main/
+
 ### Screenshot
 
 ![Desktop screen](design/DesktopScreen.png)
