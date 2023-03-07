@@ -19,7 +19,6 @@ Il s'agit d'un travail ayant pour but de pratiquer les outils tels que git et gi
 ### Screenshot
 
 ![Desktop screen](design/DesktopScreen.png)
-![Mobile screen] (design/mobileScreen.png)
 
 
 ## My process
